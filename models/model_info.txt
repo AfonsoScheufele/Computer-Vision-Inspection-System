@@ -1,0 +1,2 @@
+model_summary: None
+metrics: {'final_train_loss': 7.03776822774671e-05, 'final_train_accuracy': 1.0, 'final_val_loss': 0.000845796603243798, 'final_val_accuracy': 1.0, 'best_val_loss': 0.00028804107569158077, 'best_val_accuracy': 1.0}
